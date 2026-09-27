@@ -1,4 +1,7 @@
 # 🚗 Number Plate Detection and OCR
+## 🚀 Live Demo
+
+👉 [Open Number Plate Detection & OCR App](https://number-plate-ocr.streamlit.app/)
 
 A computer vision project that detects vehicle number plates using **YOLO** and extracts the plate text using **EasyOCR**. The project also includes a **Streamlit web application** where users can upload a video and process it automatically.
 
